@@ -1,0 +1,428 @@
+[
+    {
+    "chef_id": "1",
+    "recipes": [
+      {
+        "id": "0171",
+        "name": "Spicy Chicken Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0172",
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0173",
+        "name": "Spicy Fish Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+    },
+    {
+    "chef_id": "2",
+    "recipes": [
+      {
+        "id": "0174",
+        "name": "Spicy Chicken Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0175",
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0176",
+        "name": "Spicy Fish Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+    },
+    {
+    "chef_id": "3",
+    "recipes": [
+      {
+        "id": "0174",
+        "name": "Spicy Chicken Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0175",
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0176",
+        "name": "Spicy Fish Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+    },
+    {
+    "chef_id": "4",
+    "recipes": [
+      {
+        "id": "0177",
+        "name": "Spicy Chicken Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0178",
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0179",
+        "name": "Spicy Fish Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+    },
+    {
+    "chef_id": "5",
+    "recipes": [
+      {
+        "id": "0181",
+        "name": "Spicy Chicken Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0182",
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0183",
+        "name": "Spicy Fish Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+    },
+    {
+    "chef_id": "6",
+    "recipes": [
+      {
+        "id": "0184",
+        "name": "Spicy Chicken Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0185",
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "id": "0186",
+        "name": "Spicy Fish Curry",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "1 tbsp ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/4 tsp cayenne pepper",
+          "1 can (14 oz) diced tomatoes",
+          "1/2 cup chicken broth",
+          "1/4 cup heavy cream",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until soft, about 5 minutes. Add garlic and ginger and cook for 1 minute.\n2. Add chicken and cook until browned on all sides, about 5 minutes.\n3. Add cumin, coriander, turmeric, and cayenne pepper and stir to combine. Cook for 1 minute.\n4. Add diced tomatoes and chicken broth and bring to a simmer. Cover and cook for 20 minutes.\n5. Stir in heavy cream and season with salt and pepper to taste. Simmer for 5 minutes.\n6. Serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+    }
+]

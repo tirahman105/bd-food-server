@@ -1,8 +1,8 @@
 [
     {
       "id": "1",
-      "picture": "https://example.com/chef1.jpg",
-      "name": "Tomi Mia",
+      "picture": "https://alchetron.com/cdn/tommy-miah-30e65d8b-336f-479e-944e-7dba8cedc6d-resize-750.jpeg",
+      "name": "Tommy Mia",
       "experience": "18",
       "recipes": "50",
       "likes": "3000",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "picture": "https://example.com/chef2.jpg",
+      "picture": "https://alchetron.com/cdn/tommy-miah-30e65d8b-336f-479e-944e-7dba8cedc6d-resize-750.jpeg",
       "name": "Ahmed Hossain",
       "experience": "8",
       "recipes": "40",
@@ -19,7 +19,7 @@
     },
     {
       "id": "3",
-      "picture": "https://example.com/chef3.jpg",
+      "picture": "https://alchetron.com/cdn/tommy-miah-30e65d8b-336f-479e-944e-7dba8cedc6d-resize-750.jpeg",
       "name": "Fakruddin ",
       "experience": "5",
       "recipes": "30",
@@ -28,7 +28,7 @@
     },
     {
       "id": "4",
-      "picture": "https://example.com/chef4.jpg",
+      "picture": "https://alchetron.com/cdn/tommy-miah-30e65d8b-336f-479e-944e-7dba8cedc6d-resize-750.jpeg",
       "name": "Asad Latif",
       "experience": "3",
       "recipes": "20",
@@ -37,7 +37,7 @@
     },
     {
       "id": "5",
-      "picture": "https://example.com/chef5.jpg",
+      "picture": "https://alchetron.com/cdn/tommy-miah-30e65d8b-336f-479e-944e-7dba8cedc6d-resize-750.jpeg",
       "name": "Siddiqua Kabir",
       "experience": "2",
       "recipes": "15",
@@ -46,7 +46,7 @@
     },
     {
       "id": "6",
-      "picture": "https://example.com/chef6.jpg",
+      "picture": "https://alchetron.com/cdn/tommy-miah-30e65d8b-336f-479e-944e-7dba8cedc6d-resize-750.jpeg",
       "name": "Manik Miah",
       "experience": "1",
       "recipes": "10",
