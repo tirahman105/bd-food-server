@@ -19,18 +19,30 @@ app.get('/recipe', (req, res)=>{
     res.send(recipe);
 })
 
+
+
 app.get('/recipe/:id', (req, res)=> {
     const id = req.params.id;
-    const selectedRecipe = recipe.find(n => n._id === id);
+    const selectedChef = allChef.find(n => n.id === id);
+    const selectedRecipe = recipe.filter(n => n.chef_id === id);
+    console.log('tareq', selectedChef, allChef)
     
-    res.send(selectedRecipe);
+    res.send({selectedRecipe, selectedChef});
 })
 
 app.get('/allchef/:id', (req, res) => {
-    const id = parseInt(req.params.id);
-    const chefRecipe= recipe.filter(n => parseInt(n.chef_id) === id);
-    res.send(chefRecipe);
+    // const id = parseInt(req.params.id);
+    // const chefRecipe= recipe.filter(n => parseInt(n.chef_id) === id);
+    // res.send(chefRecipe);
+
+    const id = req.params.id;
+    const selectedChef = allChef.find(n => n.id === id);
+    const selectedRecipe = recipe.filter(n => n.chef_id === id);
+    console.log('tareq', selectedChef, allChef)
+    
+    res.send({selectedRecipe, selectedChef});
 })
+
 
 app.listen(port, () =>{
     console.log(`BD API is running on port: ${port}`)
