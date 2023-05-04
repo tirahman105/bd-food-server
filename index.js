@@ -38,7 +38,7 @@ app.get('/allchef/:id', (req, res) => {
     const id = req.params.id;
     const selectedChef = allChef.find(n => n.id === id);
     const selectedRecipe = recipe.filter(n => n.chef_id === id);
-    console.log('tareq', selectedChef, allChef)
+    // console.log('tareq', selectedChef, allChef)
     
     res.send({selectedRecipe, selectedChef});
 })
